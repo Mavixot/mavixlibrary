@@ -12,7 +12,7 @@ local c = {
 
     Background = Color3.fromRGB(18, 10, 10),
     Secondary = Color3.fromRGB(40, 15, 15),
-    Border = Color3.fromRGB(100, 30, 30),
+    Border = Color3.fromRGB(0, 0, 0),
 
     Text = Color3.fromRGB(235, 235, 235),
     TextDark = Color3.fromRGB(180, 180, 180),
@@ -28,7 +28,7 @@ local c = {
 
     Notification = {
         Background = Color3.fromRGB(18, 10, 10),
-        Border = Color3.fromRGB(80, 25, 25),
+        Border = Color3.fromRGB(0, 0, 0),
         Timer = Color3.fromRGB(190, 50, 50)
     }
 }
