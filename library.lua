@@ -11,7 +11,7 @@ local n = "Acrylic"
 local c = {
 
     Background = Color3.fromRGB(25,15,15),
-    Secondary = Color3.fromRGB(25,15,15),
+    Secondary = Color3.fromRGB(255,255,255),
     Border = Color3.fromRGB(15,0,0),
 
     Text = Color3.fromRGB(235,235,235),
