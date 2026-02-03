@@ -21,8 +21,8 @@ local c = {
     Accent = Color3.fromRGB(190,50,50),
 
     Toggle = {
-        Enabled = Color3.fromRGB(190,50,50),
-        Disabled = Color3.fromRGB(90,30,30),
+        Enabled = Color3.fromRGB(255,255,255),
+        Disabled = Color3.fromRGB(25,15,15),
         Circle = Color3.fromRGB(235,235,235)
     },
 
