@@ -2144,7 +2144,7 @@ function Library._CreateColorPicker(tab, config)
     CreateCorner(hueCursor, 100)
     CreateInstance("UIStroke", {
         Thickness = 1,
-        Color = Color3.fromRGB(20, 20, 20),
+        Color = Color3.fromRGB(50, 20, 20),
         Parent = hueCursor
     })
 
