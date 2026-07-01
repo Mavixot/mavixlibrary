@@ -1,5 +1,5 @@
--- Acrylic UI Library v2.0
--- Optimized and Enhanced
+-- Library v2.0
+-- https://discord.gg/fszKHXW3RF
 
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
